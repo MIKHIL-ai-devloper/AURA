@@ -1,8 +1,5 @@
 # AURA — India’s First Real Offline JARVIS
 
-Built in one night after scoring 50+ in maths  
-Fueled by 110₹ Hell Energy Drink + 5 cigarettes + pure punjabi blood
-
 **No internet · No API · 100% local · Runs on any laptop**
 
 ### Features
@@ -21,9 +18,6 @@ Fueled by 110₹ Hell Energy Drink + 5 cigarettes + pure punjabi blood
 4. `python singlefile.py`  
 5. Say **“AURA”** → watch magic
 
-> “Maths mera bhi***i, main king hu”  
-> — 25th November 2025, 6 AM (after all-nighter)
-
-Made with by a 12th grader who refused to lose.
+Made with by a 10th grader who refused to lose.
 
 **Desi Tony Stark · Certified Legend · AURA = movement**
